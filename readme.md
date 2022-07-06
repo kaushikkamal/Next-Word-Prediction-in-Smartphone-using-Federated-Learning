@@ -14,8 +14,10 @@ mobile application is shown below:
 <br>
 <br>
 
-<img src="assets/how mock.png"  height="500" />
-<img src="assets/how are mock.png"  height="500" />
+<p float="left">
+    <img src="assets/how mock.png"  height="500" />
+    <img src="assets/how are mock.png"  height="500" />
+</p>
 
 <br>
 <br>
@@ -27,21 +29,25 @@ When restrict mode is enabled, the users history will not be saved that means no
 <br>
 <br>
 
-<img src="assets/how are restrict mock.png"  height="500" />
-<img src="assets/how are restrict white mock.png"  height="500" />
+<p float="left">
+    <img src="assets/how are restrict mock.png"  height="500" />
+    <img src="assets/how are restrict white mock.png"  height="500" />  
+</p>
 
 <br>
 <br>
 
 # Test on Assamese words
 
-The model was also trained and tested with a regional language which is Assamese. 
+The model was also trained and tested with a regional language which is Assamese.
 
 <br>
 <br>
 
-<img src="assets/assamese 1 mock.png"  height="500" />
-<img src="assets/assamese 2 mock.png"  height="500" />
+<p float="left">
+    <img src="assets/assamese 1 mock.png"  height="500" />
+    <img src="assets/assamese 2 mock.png"  height="500" />
+</p>
 
 <br>
 <br>
@@ -54,8 +60,10 @@ the application are given below:
 <br>
 <br>
 
-<img src="assets/updaing model mock.png"  height="500" />
-<img src="assets/updated model mock.png"  height="500" />
+<p float="left">
+    <img src="assets/updaing model mock.png"  height="500" />
+    <img src="assets/updated model mock.png"  height="500" />
+</p>
 
 <br>
 <br>
@@ -67,24 +75,24 @@ The mobile application consists of a settings page where the users can manage th
 <br>
 <br>
 
-<img src="assets/settings 1 mock.png"  height="500" />
-<img src="assets/settings 2 mock.png"  height="500" />
+<p float="left"> 
+    <img src="assets/settings 1 mock.png"  height="500" />
+    <img src="assets/settings 2 mock.png"  height="500" />
+</p>
 
 <br>
 <br>
 
-- __Change the count of the predicted words:__  
-    According to the individual needs, different users can keep different predicted word count from 2 to 10.
+-   **Change the count of the predicted words:**  
+     According to the individual needs, different users can keep different predicted word count from 2 to 10.
 
-- __Change the radius of border outlines:__  
-    Different users can use different shapes of the borders according to their taste.
+-   **Change the radius of border outlines:**  
+     Different users can use different shapes of the borders according to their taste.
 
-- __Change the theme:__  
-    According to the preferences of the users, they have the provision of using different themes.
+-   **Change the theme:**  
+     According to the preferences of the users, they have the provision of using different themes.
 
 <br>
 <br>
 
 # Full Working of the Application
-
-
